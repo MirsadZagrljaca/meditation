@@ -26,11 +26,11 @@ That env file should consist of:
 
 example of env file:
 
-JWT_SECRET=MifaParagon
-MONGO_USER=Paragon004
-MONGO_PASS=!400nogaraP$
-PROJECT_NUMBER=thirthySix
-MONGO_CLUSTER=@cluster0.wilyr.mongodb.net
+- JWT_SECRET=MifaParagon
+- MONGO_USER=Paragon004
+- MONGO_PASS=!400nogaraP$
+- PROJECT_NUMBER=thirthySix
+- MONGO_CLUSTER=@cluster0.wilyr.mongodb.net
 
 ### Testing account
 
